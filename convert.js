@@ -6,7 +6,6 @@ function feetToInch(inch) {
   let result = feetNumber+' ft and '+ Fraction+' inch.';
 
   console.log(result);
-}
 
 const heith = 75;
 feetToInch(heith);
