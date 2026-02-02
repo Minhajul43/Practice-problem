@@ -18,4 +18,4 @@ function getMax(num1, num2) {
   }
 }
 const result = getMax(num1, num2);
-console.log(result);
+console.log(result)
